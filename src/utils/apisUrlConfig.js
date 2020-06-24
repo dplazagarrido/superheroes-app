@@ -1,0 +1,1 @@
+export const superHeroesAppis = 'http://157.245.138.232:9091/api'
